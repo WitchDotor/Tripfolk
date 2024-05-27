@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Update profile screen-->
+    <string name="update_profile_screen_create_title">Create profile</string>
+    <string name="update_profile_screen_edit_title">Edit profile</string>
+    <string name="update_profile_screen_name_field_label">Name</string>
+    <string name="update_profile_screen_name_field_hint">Your name</string>
+    <string name="update_profile_screen_name_field_required_error">Name is required</string>
+    <string name="update_profile_screen_date_of_birth_field_label">Date of birth</string>
+    <string name="update_profile_screen_date_of_birth_field_hint">Your date of birth</string>
+    <string name="update_profile_screen_date_of_birth_field_required_error">Date of birth is required</string>
+    <string name="update_profile_screen_date_of_birth_field_invalid_error">Invalid date of birth</string>
+    <string name="update_profile_screen_create_button">Create</string>
+    <string name="update_profile_screen_edit_button">Edit</string>
+
+    <!-- Profile screen-->
+    <string name="profile_screen_title">Profile</string>
+    <string name="profile_screen_personal_block_label">Personal info</string>
+    <string name="profile_screen_edit_profile">Edit profile</string>
+    <string name="profile_screen_general_block_label">General</string>
+    <string name="profile_screen_dark_mode">Dark mode</string>
+    <string name="profile_screen_privacy_policy">Privacy policy</string>
+    <string name="profile_screen_terms_and_conditions">Terms and conditions</string>
+    <string name="profile_screen_logout">Logout</string>
+    <string name="profile_screen_delete_profile">Delete profile</string>
+    <string name="profile_screen_languages">Languages</string>
+</resources>

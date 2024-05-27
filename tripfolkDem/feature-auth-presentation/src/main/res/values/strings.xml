@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Common-->
+    <string name="google_sign_in_error">Google sign in failed</string>
+
+    <!--Enter Screen-->
+    <string name="enter_sign_in_button">Sign in</string>
+    <string name="enter_sign_up_button">Sign up</string>
+    <string name="enter_screen_title">Enter</string>
+    <string name="enter_guest_button">Guest</string>
+
+    <!--Sign Up Screen-->
+    <string name="sign_up_title">Sign Up</string>
+    <string name="sign_up_header">Create Account</string>
+    <string name="sign_up_mail_title">E-mail</string>
+    <string name="sign_up_mail_hint">Enter your email</string>
+    <string name="sign_up_password_title">Password</string>
+    <string name="sign_up_password_hint">Enter your password</string>
+    <string name="sign_up_button_text">Create An Account</string>
+    <string name="sign_up_social_medias_buttons_title">Or Sign In with</string>
+    <string name="sign_up_email_error_invalid">Email is required</string>
+    <string name="sign_up_email_error_required">Email is invalid</string>
+    <string name="sign_up_password_error_required">Should contain at least 6 characters</string>
+
+    <!--Sign In Screen-->
+    <string name="sign_in_title">Sign In</string>
+    <string name="sign_in_header">Hi, Welcome Back! 👋</string>
+    <string name="sign_in_mail_title">E-mail</string>
+    <string name="sign_in_mail_hint">Enter your email</string>
+    <string name="sign_in_password_title">Password</string>
+    <string name="sign_in_password_hint">Enter your password</string>
+    <string name="sign_in_button_text">Sign In</string>
+    <string name="sign_in_dont_have_account">Don’t have an account? Sign Up</string>
+    <string name="sign_in_social_medias_buttons_title">Or Sign In with</string>
+    <string name="sign_in_email_error_required">Email is required</string>
+    <string name="sign_in_email_error_invalid">Email is invalid</string>
+    <string name="sign_in_password_error_required">Should contain at least 6 characters</string>
+</resources>

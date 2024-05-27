@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_picker_confirm_button">Confirm</string>
+    <string name="app_bar_back_button">Back</string>
+    <string name="error_state_retry_button">Retry</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_screen_next_button_text">Next</string>
+    <string name="onboarding_screen_get_started_button_text">Get Started</string>
+    <string name="onboarding_screen_skip_button_text">Skip</string>
+    <string name="onboarding_screen_on_error_onboarding_title">Ooopppss...</string>
+    <string name="onboarding_screen_on_error_onboarding_text">Something is wrong, try again</string>
+</resources>

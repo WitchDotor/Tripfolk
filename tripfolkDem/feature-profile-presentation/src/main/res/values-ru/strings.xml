@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Update profile screen-->
+    <string name="update_profile_screen_create_title">Создать профиль</string>
+    <string name="update_profile_screen_edit_title">Редактировать профиль</string>
+    <string name="update_profile_screen_name_field_label">Имя</string>
+    <string name="update_profile_screen_name_field_hint">Ваше имя</string>
+    <string name="update_profile_screen_name_field_required_error">Необходимо ввести имя</string>
+    <string name="update_profile_screen_date_of_birth_field_label">Дата рождения</string>
+    <string name="update_profile_screen_date_of_birth_field_hint">Ваша дата рождения</string>
+    <string name="update_profile_screen_date_of_birth_field_required_error">Необходимо указать дату рождения</string>
+    <string name="update_profile_screen_date_of_birth_field_invalid_error">Некоректная дата рождения</string>
+    <string name="update_profile_screen_create_button">Создать</string>
+    <string name="update_profile_screen_edit_button">Редактировать</string>
+
+    <!-- Profile screen-->
+    <string name="profile_screen_title">Профиль</string>
+    <string name="profile_screen_personal_block_label">Персональная информация</string>
+    <string name="profile_screen_edit_profile">Редактировать профиль</string>
+    <string name="profile_screen_general_block_label">General</string>
+    <string name="profile_screen_dark_mode">Темная тема</string>
+    <string name="profile_screen_privacy_policy">Политика приватности</string>
+    <string name="profile_screen_terms_and_conditions">Terms and conditions</string>
+    <string name="profile_screen_logout">Выйти</string>
+    <string name="profile_screen_delete_profile">Удалить профиль</string>
+    <string name="profile_screen_languages">Языки</string>
+</resources>

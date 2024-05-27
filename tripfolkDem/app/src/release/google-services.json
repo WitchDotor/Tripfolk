@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "632555877562",
+    "project_id": "tripfolk-production",
+    "storage_bucket": "tripfolk-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632555877562:android:b6b4d10cd7e9baf89fbe83",
+        "android_client_info": {
+          "package_name": "com.tripfolk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632555877562-8ri741ocl2dsb6m9m72pd7iangdbk3u4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tripfolk",
+            "certificate_hash": "c6a628cdc291a8f750355b6ed04caeb82ae43d82"
+          }
+        },
+        {
+          "client_id": "632555877562-nkt2ofuktmqp5ebebfqnfh3lsu09q9cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tripfolk",
+            "certificate_hash": "2f50b6498de58dc62af46e33f6970997c884500b"
+          }
+        },
+        {
+          "client_id": "632555877562-395l0bdh1vukv8bl3kaidooq53l8kaeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCppFQ2b9hetBOP9-8jKCuYywhOaiFHvJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632555877562-395l0bdh1vukv8bl3kaidooq53l8kaeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

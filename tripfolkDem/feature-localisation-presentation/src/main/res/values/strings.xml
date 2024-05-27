@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="localisation_screen_english_language_name">English</string>
+    <string name="localisation_screen_france_language_name">France</string>
+    <string name="localisation_screen_hindi_language_name">Hindi</string>
+    <string name="localisation_screen_japanese_language_name">Japanese</string>
+    <string name="localisation_screen_russian_language_name">Russian</string>
+    <string name="localisation_screen_appbar_title">Languages</string>
+</resources>

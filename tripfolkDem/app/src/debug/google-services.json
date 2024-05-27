@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395854532308",
+    "project_id": "tripfolk-a4f0e",
+    "storage_bucket": "tripfolk-a4f0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395854532308:android:468877480778b470017541",
+        "android_client_info": {
+          "package_name": "com.tripfolk.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395854532308-llv38hkmj0lcj86c1gipb72v91t5r1kt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tripfolk.debug",
+            "certificate_hash": "2f50b6498de58dc62af46e33f6970997c884500b"
+          }
+        },
+        {
+          "client_id": "395854532308-8061o4l5qlsleps7817426oaoqamiilg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgrzLT79vT3ldSCSbeL4LBhRY6g4_XFCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395854532308-8061o4l5qlsleps7817426oaoqamiilg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
